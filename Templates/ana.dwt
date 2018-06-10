@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+
+<!-- Website template by freewebsitetemplates.com -->
+
+<html>
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>BİLET AL</title>
+
+	<link rel="stylesheet" href="../css/style.css" type="text/css">
+
+</head>
+
+<body>
+
+	<div id="header">
+
+		<div>
+
+			<a href="../index.html" id="logo"><img src="../images/logo.png" alt=""></a>
+
+		  <ul>
+
+			  <li> <a href="index.php">anasayfa</a> </li>
+
+			  <li><a href="biletiptali.php">bilet iptali</a><a href="yakinda.html"></a></li>
+
+			  <li> <a href="biletal.php">BILET AL</a> </li>
+
+			  <li><a href="eposta/index.php">ILETISIM</a></li>
+
+		  </ul>
+
+		</div>
+
+	</div>
+
+	<div id="body" class="home"><!-- TemplateBeginEditable name="EditRegion1" -->
+
+	  <div>
+
+	    <ul>
+
+	      <li>
+
+	        <h3>&nbsp;</h3>
+
+	        <span>Cinema 4</span></li>
+
+        </ul>
+
+    </div>
+
+	<!-- TemplateEndEditable -->
+
+	  <div><!-- TemplateBeginEditable name="EditRegion2" -->
+
+	    <div>
+
+	      <h3><a href="../rentals.html">Rental Services</a></h3>
+
+	      <ul>
+
+	        <li> <a href="../rentals.html"><img src="../images/conference.jpg" alt=""></a>
+
+	          <h4>Conference Rooms</h4>
+
+	          <p> In sed nibh mauris. Curabitur scelerisque dignissim viverra. Etiam interdum enim nec turpis. </p>
+
+            </li>
+
+	        <li> <a href="../rentals.html"><img src="../images/cinema.jpg" alt=""></a>
+
+	          <h4>Cinema Rental</h4>
+
+	          <p> Donec odio nunc, consectetur fringilla tincidunt nec, cursus vitae ipsum. </p>
+
+            </li>
+
+          </ul>
+
+      </div>
+
+	  <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion3" -->
+
+	  <div>
+
+	    <h3><a href="../blog.html">From The Blog</a></h3>
+
+	    <ul>
+
+	      <li> <a href="../blog.html"><img src="../images/trainor.jpg" alt=""></a>
+
+	        <div> <span>Posted on August 8, 2023 by Admin</span>
+
+	          <h4>Blog Post Title One</h4>
+
+	          <p> Donec odio nunc, consectetur fringilla tincidunt nec, cursus vitae ipsum. <a href="../blog.html" class="more">Read More</a> </p>
+
+	          </div>
+
+	        </li>
+
+	      <li> <a href="../blog.html"><img src="../images/lava.jpg" alt=""></a>
+
+	        <div> <span>Posted on August 8, 2023 by Admin</span>
+
+	          <h4>Blog Post Title Two</h4>
+
+	          <p> Donec odio nunc, consectetur fringilla tincidunt nec, cursus vitae ipsum. <a href="../blog.html" class="more">Read More</a> </p>
+
+	          </div>
+
+	        </li>
+
+	      <li> <a href="../blog.html"><img src="../images/castle.jpg" alt=""></a>
+
+	        <div> <span>Posted on August 8, 2023 by Admin</span>
+
+	          <h4>Blog Post Title One</h4>
+
+	          <p> Donec odio nunc, consectetur fringilla tincidunt nec, cursus vitae ipsum. <a href="../blog.html" class="more">Read More</a> </p>
+
+	          </div>
+
+	        </li>
+
+	      </ul>
+
+	    </div>
+
+	  <!-- TemplateEndEditable --></div>
+
+</div>
+
+	<div id="footer">
+
+		<div>
+
+		  <div class="section">
+
+		    <p>&nbsp;</p>
+
+			</div>
+
+			<div>
+
+			  <p>&nbsp;</p>
+
+			</div>
+
+			<p>
+
+				&#169; 2017 SİNEMA BİLETİNİZ</p>
+
+			<div class="connect">
+
+				<span></span> <a href="#" id="facebook">facebook</a> <a href="#" id="twitter">twitter</a> google+
+
+			</div>
+
+		</div>
+
+	</div>
+
+</body>
+
+</html>

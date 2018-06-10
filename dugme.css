@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+.dugme {
+	-moz-box-shadow:inset 0px 0px 28px 0px #fafafa;
+	-webkit-box-shadow:inset 0px 0px 28px 0px #fafafa;
+	box-shadow:inset 0px 0px 28px 0px #fafafa;
+	background-color:#00f7ff;
+	-webkit-border-top-left-radius:37px;
+	-moz-border-radius-topleft:37px;
+	border-top-left-radius:37px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:37px;
+	-moz-border-radius-bottomright:37px;
+	border-bottom-right-radius:37px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:0;
+	border:1px solid #ffffff;
+	display:inline-block;
+	color:#000000;
+	font-family:Verdana;
+	font-size:15px;
+	font-weight:bold;
+	font-style:italic;
+	height:40px;
+	line-height:40px;
+	width:86px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #000000;
+}.dugme:hover {
+	background-color:#254cc2;
+}.dugme:active {
+	position:relative;
+	top:1px;
+}
+/* This button was generated using CSSButtonGenerator.com */
